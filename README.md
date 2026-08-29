@@ -41,3 +41,8 @@ Semua data utama ada di `config.js`, termasuk nomor WhatsApp, tanggal, lokasi, d
 - Menambahkan daftar 7 jenis hadiah tanpa harga.
 - Setiap hadiah memiliki ilustrasi SVG animasi: TV, kulkas, mesin cuci, power bank, dispenser, setrika, dan kipas.
 - RSVP WhatsApp tetap menuju 085267020568 (format internasional 6285267020568).
+
+
+## Update V4
+- Nama ruangan acara: **EF Lounge, Lantai Dasar FURAYA HOTEL**.
+- Informasi ruangan tampil pada Detail Acara dan pesan RSVP WhatsApp.

@@ -22,6 +22,7 @@
   }
   if (config.venue) {
     setText("#venueName", config.venue.name);
+    setText("#venueRoom", config.venue.room);
     setText("#venueAddress", config.venue.address);
     const maps = qs("#mapsButton");
     if (maps && config.venue.mapsUrl) maps.href = config.venue.mapsUrl;
@@ -245,6 +246,7 @@
       `Kehadiran: ${attendance}`,
       `Jumlah tamu yang akan hadir: ${guests} orang`,
       `Jamuan: Ciak Tok / makan bersama di meja`,
+      `Ruangan: ${config.venue?.room || "EF Lounge, Lantai Dasar FURAYA HOTEL"}`,
       `Ucapan/Pesan: ${message}`
     ];
 
