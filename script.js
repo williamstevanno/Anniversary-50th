@@ -246,7 +246,7 @@
       `Kehadiran: ${attendance}`,
       `Jumlah tamu yang akan hadir: ${guests} orang`,
       `Jamuan: Ciak Tok / makan bersama di meja`,
-      `Ruangan: ${config.venue?.room || "EF Lounge, Lantai Dasar FURAYA HOTEL"}`,
+      `Ruangan: ${config.venue?.room || "Maharani dan Mahoni Meeting Room, Lt 1, Furaya Hotel"}`,
       `Ucapan/Pesan: ${message}`
     ];
 

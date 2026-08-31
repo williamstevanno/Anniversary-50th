@@ -44,7 +44,7 @@ Semua data utama ada di `config.js`, termasuk nomor WhatsApp, tanggal, lokasi, d
 
 
 ## Update V5
-- Nama ruangan acara: **EF Lounge, Lantai Dasar FURAYA HOTEL**.
+- Nama ruangan acara: **Maharani dan Mahoni Meeting Room, Lt 1, Furaya Hotel**.
 - Informasi ruangan tampil pada Detail Acara dan pesan RSVP WhatsApp.
 
 

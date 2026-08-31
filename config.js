@@ -11,7 +11,7 @@ window.INVITATION_CONFIG = {
   },
   venue: {
     name: "Hotel Furaya Pekanbaru",
-    room: "EF Lounge, Lantai Dasar FURAYA HOTEL",
+    room: "Maharani dan Mahoni Meeting Room, Lt 1, Furaya Hotel",
     address: "Jl. Jenderal Sudirman No. 72–74, Pekanbaru, Riau",
     mapsUrl: "https://www.google.com/maps/search/?api=1&query=Hotel+Furaya+Pekanbaru"
   },
