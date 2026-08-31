@@ -43,6 +43,12 @@ Semua data utama ada di `config.js`, termasuk nomor WhatsApp, tanggal, lokasi, d
 - RSVP WhatsApp tetap menuju 085267020568 (format internasional 6285267020568).
 
 
-## Update V4
+## Update V5
 - Nama ruangan acara: **EF Lounge, Lantai Dasar FURAYA HOTEL**.
 - Informasi ruangan tampil pada Detail Acara dan pesan RSVP WhatsApp.
+
+
+## V5 Update
+- Hadiah ditampilkan tanpa merek, tipe, atau quantity.
+- Menambahkan Magic Com sebagai hadiah dengan ilustrasi animasi.
+- Judul bagian diubah menjadi Hadiah & Doorprize.
